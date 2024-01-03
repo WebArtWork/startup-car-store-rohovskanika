@@ -1,0 +1,118 @@
+{
+  "title": "Welcome to waw Template",
+  "description": "description",
+  "keywords": "keywords",
+  "prefix": "/rohovskanika",
+  "picture": "picture",
+  "author": "author",
+  "moderators": [],
+  "scss": "scss/index.scss",
+  "variables": {
+		"primary_color": "#AF0000;",
+		"ceo_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+		"logo_text":"CBW",
+    "intro_bg": "/rohovskanika/img/car_bg2.jpg",
+	"bg_section":"/rohovskanika/img/bg_section1.jpg",
+    "intro_mini_bg1":"/rohovskanika/img/flo1.jpg",
+    "intro_mini_bg2":"/rohovskanika/img/flo2.jpg",
+    "intro_mini_bg3":"/rohovskanika/img/flo3.jpg",
+    "land_decor": "1",
+		"land_head_text": "CARBY.WORLD",
+		"land_head_text2": "Welcome to our universal portal for pets and their owners!",
+		"contact_text":" Don't forget to subscribe to our newsletters and social networks",
+		"email_text": "ceo@webart.work",
+		"link_instagram": "https://instagram.com/kpcity2023?igshid=OGQ5ZDc2ODk2ZA==",
+		"link_facebook": "https://www.facebook.com/profile.php?id=100094157589278",
+		"link_telegram": "https://t.me/wawkpcity",
+		"page1_text": "Kamianets-Podilskiy",
+		"page2_text": "Kamianets-Podilskiy",
+		"page3_text": "Kamianets-Podilskiy",
+		"page4_text": "Kamianets-Podilskiy",
+		"page5_text": "Kamianets-Podilskiy",
+		"page6_text": "Kamianets-Podilskiy"
+	},
+  "footer": {
+    "products": [
+      {
+        "id": "/product",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "product"
+      },
+      {
+        "id": "/product",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "product"
+      },
+      {
+        "id": "/product",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "product"
+      }
+    ],
+    "articles": [
+      {
+        "id": "/article",
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "article"
+      },
+      {
+        "id": "/article",
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "article"
+      },
+      {
+        "id": "/article",
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://neryxomka.com/template/img/welcome.png",
+        "name": "article"
+      }
+    ]
+  },
+	"categories_articles": [
+		{
+			"name": "Category One",
+			"tags": [
+				{
+					"name": "Tag one"
+				}
+			]
+		}
+	],
+	"categories_products": [
+		{
+			"name": "Category One",
+			"tags": [
+				{
+					"name": "Tag one"
+				}
+			]
+		}
+	],
+	
+	"categories_services": [
+		{
+			"name": "Category One",
+			"tags": [
+				{
+					"name": "Tag one"
+				}
+			]
+		}
+	],
+	"tags": [
+		{
+		"name": "Tag Name",
+		"category": {
+		  "name": "Category Name",
+		  "group": "article"
+		}
+		} ]
+}
